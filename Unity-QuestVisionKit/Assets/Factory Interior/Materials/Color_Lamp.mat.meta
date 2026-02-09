@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 75c9e6056d0b7b344b91db1579449802
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 190219
+  packageName: Factory Interior
+  packageVersion: 1.0
+  assetPath: Assets/Factory Interior/Materials/Color_Lamp.mat
+  uploadId: 420760

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 030dd13de67723544b12ec0798d34dda
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 190219
+  packageName: Factory Interior
+  packageVersion: 1.0
+  assetPath: Assets/Factory Interior/Maps/Overview/LightingData.asset
+  uploadId: 420760
