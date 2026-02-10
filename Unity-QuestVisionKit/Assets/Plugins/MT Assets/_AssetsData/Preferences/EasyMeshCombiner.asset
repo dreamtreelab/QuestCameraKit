@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9168bd0e7d7ff4e409b67e0c31e28ca7, type: 3}
   m_Name: EasyMeshCombiner
   m_EditorClassIdentifier: Assembly-CSharp-Editor-firstpass::MTAssets.EasyMeshCombiner.Editor.MeshCombinerPreferences
-  projectName: Unity-QuestVisionKit
+  projectName: Test app 1
   windowPosition:
     serializedVersion: 2
-    x: 536
-    y: 197
+    x: 650
+    y: 202
     width: 620
     height: 676
   representLogsInScene: 1
