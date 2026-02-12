@@ -1,21 +1,19 @@
 {
   "dependencies": {
+    "com.bezi.sidekick": {
+      "version": "file:com.bezi.sidekick",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.1"
+      }
+    },
     "com.endel.nativewebsocket": {
       "version": "https://github.com/endel/NativeWebSocket.git#upm",
       "depth": 0,
       "source": "git",
       "dependencies": {},
       "hash": "1d8b49b3fee41c09a98141f1f1a5e4db47e14229"
-    },
-    "com.firedragongamestudio.simplewebrtc": {
-      "version": "https://github.com/FireDragonGameStudio/SimpleWebRTC.git?path=/Assets/SimpleWebRTC",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.unity.webrtc": "3.0.0",
-        "com.unity.textmeshpro": "3.0.6"
-      },
-      "hash": "d3fc983d0c91c150a41f42e6ceb5124baaba5891"
     },
     "com.meta.xr.mrutilitykit": {
       "version": "81.0.0",
@@ -114,7 +112,7 @@
     },
     "com.unity.editorcoroutines": {
       "version": "1.0.0",
-      "depth": 1,
+      "depth": 2,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -276,17 +274,6 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
-    "com.unity.webrtc": {
-      "version": "https://github.com/Unity-Technologies/com.unity.webrtc.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.unity.modules.jsonserialize": "1.0.0",
-        "com.unity.editorcoroutines": "1.0.0",
-        "com.unity.modules.audio": "1.0.0"
-      },
-      "hash": "1ea255481b9123916f616301413a62238680179a"
-    },
     "com.unity.xr.arfoundation": {
       "version": "6.2.0",
       "depth": 1,
@@ -372,6 +359,13 @@
         "com.unity.xr.legacyinputhelpers": "2.1.2"
       },
       "url": "https://packages.unity.com"
+    },
+    "io.livekit.livekit-sdk": {
+      "version": "https://github.com/livekit/client-sdk-unity.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "75de5e329dafbcc14754392793cdb09f49666286"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
